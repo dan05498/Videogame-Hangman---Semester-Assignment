@@ -8,6 +8,7 @@ inicio
 
 
 ¡Felicitaciones!...
+name
 La palabra era:
 word
 
